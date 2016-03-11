@@ -1,0 +1,39 @@
+{
+  "name": "web-comic",
+  "version": "1.0.0",
+  "description": "",
+  "main": "gulpfile.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/EricSSartorius/web-comic.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/EricSSartorius/web-comic/issues"
+  },
+  "homepage": "https://github.com/EricSSartorius/web-comic",
+  "devDependencies": {
+    "autoprefixer": "^6.3.3",
+    "browser-sync": "^2.11.1",
+    "del": "^2.2.0",
+    "gulp": "^3.9.1",
+    "gulp-autoprefixer": "^3.1.0",
+    "gulp-cache": "^0.4.2",
+    "gulp-cssnano": "^2.1.1",
+    "gulp-if": "^2.0.0",
+    "gulp-imagemin": "^2.4.0",
+    "gulp-postcss": "^6.1.0",
+    "gulp-sourcemaps": "^1.6.0",
+    "gulp-stylus": "^2.3.1",
+    "gulp-useref": "^3.0.7",
+    "run-sequence": "^1.1.5",
+    "uglify": "^0.1.5"
+  },
+  "dependencies": {
+    "normalize-styl": "^3.0.3"
+  }
+}
